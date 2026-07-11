@@ -1,0 +1,10 @@
+# 수집
+pyserial>=3.5
+pynmea2>=1.19
+# Starlink 단말 gRPC (리플렉션 방식이라 proto 컴파일 불필요)
+grpcio>=1.60
+grpcio-tools>=1.60
+yagrc>=1.1
+# 분석/시각화
+pandas>=2.0
+folium>=0.15
