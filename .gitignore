@@ -1,0 +1,13 @@
+# Local measurement data may contain precise locations and network details.
+**/data/raw/
+
+# Generated plots and analysis output.
+**/data/processed/
+
+# Local configuration and credentials.
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store

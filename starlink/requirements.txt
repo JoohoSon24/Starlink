@@ -8,3 +8,4 @@ yagrc>=1.1
 # 분석/시각화
 pandas>=2.0
 folium>=0.15
+matplotlib>=3.8
